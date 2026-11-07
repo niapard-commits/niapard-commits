@@ -21,4 +21,6 @@ after delivery: tested, deployed to a server, and documented.
 **Stack:** Python · python-telegram-bot · aiogram · Telethon · SQLite · REST APIs ·
 GitHub Actions · Linux / systemd · pytest
 
-📫 Available for freelance work: contact me through my Upwork or Fiverr profile.
+📫 Available for freelance work: order or message me on Fiverr
+
+[![Hire me on Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/serhii_bots/build-a-custom-python-telegram-bot)
